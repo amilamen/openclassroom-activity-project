@@ -1,1 +1,1 @@
-# openclassroom-activity-project
+# openclassrooms-ionic-project2
